@@ -1,0 +1,6 @@
+# virtual environment
+venv
+# cache
+__pycache__
+# dataset
+src
